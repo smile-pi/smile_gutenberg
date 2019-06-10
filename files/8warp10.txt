@@ -1,0 +1,96 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="keywords"                 content="ebooks, ebook, books, book, free, online, audio">
+    <meta name="description"              content="22000 free ebooks online">
+    <meta name="classification"           content="public">
+    <meta http-equiv="Content-Style-Type" content="text/css">
+
+    <link rel="stylesheet" type="text/css" href="/css/pg-002.css">    <link rel="shortcut icon"   href="/favicon.ico">
+    <title>Files Lookup - Project Gutenberg</title>
+  </head>
+
+  <body class="IEhack">
+    <div class="menubar">
+      <div id="logo" class="logo">
+        <a tabindex="1" href="/wiki/Main_Page"
+           title="Go to Main Page"></a>
+      </div>
+
+      <div class="menu">
+        <div class="menu-group menu-group-open">
+          <a class="h1" tabindex="30" accesskey="1" title="Go to the online book catalog section - Accesskey=1" href="/catalog/">Online Book Catalog</a>
+ <span class="menusep">=&gt;</span>         <form method="post" action="/catalog/world/results"
+	      accept-charset="utf-8" enctype="multipart/form-data">
+          <fieldset>
+            <legend>Quick Search</legend>
+            <div>
+            <label accesskey="a" for="menu-author">Author:</label>
+	    <input tabindex="20" alt="Author" type="text" size="20" value="" 
+		   maxlength="80" id="menu-author" name="author" title="Type the name of the author - Accesskey=a">
+
+            <label accesskey="t" for="menu-title">Title&nbsp;Word(s):</label>
+	    <input tabindex="21" alt="Title" type="text" size="20" value="" 
+		   maxlength="80" id="menu-title" name="title" title="Type the title of the work - Accesskey=t">
+
+            <label accesskey="n" for="menu-etextno">EText-No.:</label>
+	    <input tabindex="22" alt="EText-No." type="text" size="6" value="" 
+		   maxlength="5" id="menu-etextno" name="etextnr" title="Type the etext number - Accesskey=n">
+            <input accesskey="g" tabindex="23" id="go" type="submit" value="Go!" title="Start the search - Accesskey=g">
+            </div>
+          </fieldset>
+        </form>          <a tabindex="30" accesskey="s" title="Go to the Advanced search page - Accesskey=s" href="/catalog/world/search">Advanced  Search</a>
+ <span class="menusep">--</span>           <a tabindex="32" accesskey="r" title="Go to the Most recently posted books page - Accesskey=r" href="/browse/recent/last1">Recent  Books</a>
+ <span class="menusep">--</span>           <a tabindex="33" accesskey="p" title="Go to the Top 100 books and authors page - Accesskey=p" href="/browse/scores/top">Top  100</a>
+ <span class="menusep">--</span>           <a tabindex="31" accesskey="o" title="Go to the Offline Catalogs page - Accesskey=o" href="/wiki/Gutenberg:Offline_Catalogs">Offline Catalogs</a>
+ <span class="menusep">--</span>           <a tabindex="34" accesskey="b" title="Go to your bookmark page - Accesskey=b" href="/catalog/world/mybookmarks">My Bookmarks</a>
+        </div>
+        <div class="menu-group">
+          <a class="h1" tabindex="40" accesskey="2" title="Go to the Project Gutenberg Main Page - Accesskey=2" href="/wiki/Main_Page">Main Page</a>
+        </div>
+      </div>
+      <div id="donate" class="logo">
+	<a tabindex="98" 
+	href="https://www.paypal.com/xclick/business=donate%40gutenberg.org&amp;item_name=Donation+to+Project+Gutenberg"><img 
+	   width="62" height="31"
+	   src="/pics/paypal.gif"
+           title="Donate now to Project Gutenberg through PayPal"
+	   alt="Donate Through PayPal"></a>
+        <p>Project Gutenberg needs your donation! 
+        <a href="/wiki/Gutenberg:Project_Gutenberg_Needs_Your_Donation"
+	title="Get more info about donations to Project Gutenberg"
+	>More Info</a></p>
+      </div>
+      <div id="hosted" class="logo">
+        <a tabindex="99" href="http://www.ibiblio.org"
+           title="Project Gutenberg is hosted by ibiblio"></a>
+      </div>
+    </div>
+
+    <div class="contents">
+      <div class="motd"><div>
+<p><img class="float" src="/pics/info.png" height="48" width="48" alt="" title="light bulb icon">
+Did you know that <strong>you</strong> can help us produce ebooks
+by proof-reading just one page a day?
+Go to: <a href="http://www.pgdp.net">Distributed Proofreaders</a></p>
+</div>      </div>
+      <div class="header">
+        <h1>Files Lookup</h1>
+      </div>
+      <div class="body">
+    <p>I see no such file here! (etext05/7warp10.txt-http://www.gutenberg.org/dirs/etext05/8warp10.txt)</p>
+
+      </div>
+
+      <div class="footer">
+        <div class="copyright">
+          <p>
+            Web site copyright &copy; 2003-2008 Project Gutenberg Literary Archive Foundation &mdash; All Rights Reserved.
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
